@@ -1,5 +1,7 @@
+
 # My Portfolio
 
+  
 Welcome to my portfolio! This repository showcases my projects and achievements.
 
 ## Projects
@@ -16,6 +18,7 @@ I am a passionate data scientist with expertise in machine learning and data ana
 
 Connect with me on LinkedIn:
 
-[![LinkedIn](linkedin_button.png)](https://www.linkedin.com/in/your-linkedin-profile)
+[![LinkedIn](linkedin_button.png)](https://www.linkedin.com/in/cristhiancastro/)
 
 Feel free to reach out to me if you have any questions or collaboration opportunities.
+
