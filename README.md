@@ -6,7 +6,7 @@ Welcome to my portfolio! This repository showcases my projects and achievements.
 
 ## Projects
 
-### [Movie Recommendation System (WIP)]([https://github.com/cristhianc001/predicting-prices-and-hospitalization-with-supervised-learning](https://github.com/cristhianc001/movie-recommendation-system))
+### [Movie Recommendation System (WIP)](https://github.com/cristhianc001/movie-recommendation-system)
 - Data Cleaning with Pandas, Numpy and ast
 - 
 - 
