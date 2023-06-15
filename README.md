@@ -6,9 +6,18 @@ Welcome to my portfolio! This repository showcases my projects and achievements.
 
 ## Projects
 
-- [Two Cases of Supervised Learning: Predicting car prices and hospitalization with linear regression and classification models](https://github.com/cristhianc001/predicting-prices-and-hospitalization-with-supervised-learning)
-- [Project 2](https://github.com/your-username/project-2)
-- [Project 3](https://github.com/your-username/project-3)
+### [Movie Recommendation System (WIP)]([https://github.com/cristhianc001/predicting-prices-and-hospitalization-with-supervised-learning](https://github.com/cristhianc001/movie-recommendation-system))
+- Data Cleaning with Pandas, Numpy and ast
+- 
+- 
+
+### [Two Cases of Supervised Learning: Predicting car prices and hospitalization with linear regression and classification models](https://github.com/cristhianc001/predicting-prices-and-hospitalization-with-supervised-learning)
+- Linear Regression
+- Logistic Regression
+- Decision Tree
+
+### [Project 2](https://github.com/your-username/project-2)
+### [Project 3](https://github.com/your-username/project-3)
 
 ## About Me
 
