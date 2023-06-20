@@ -4,7 +4,7 @@ https://github.com/cristhianc001/cristhianc001.github.io/blob/main/img/linkedin-
   
 | Icono 1 | Icono 2 | Icono 3 |
 |---------|---------|---------|
-|    Icono 1    |    Icono 2    |    Icono 3    |
+|    [![](https://pandao.github.io/editor.md/examples/images/7.jpg)](https://pandao.github.io/editor.md/examples/images/7.jpg "李健首张专辑《似水流年》封面")   |    [![](https://pandao.github.io/editor.md/examples/images/7.jpg)](https://pandao.github.io/editor.md/examples/images/7.jpg "李健首张专辑《似水流年》封面")    |    [![](https://pandao.github.io/editor.md/examples/images/7.jpg)](https://pandao.github.io/editor.md/examples/images/7.jpg "李健首张专辑《似水流年》封面")   |
 
 
 | Icono 1 | Icono 2 | Icono 3 |
