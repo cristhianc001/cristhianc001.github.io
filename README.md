@@ -1,8 +1,16 @@
 
 # My Portfolio
-
+https://github.com/cristhianc001/cristhianc001.github.io/blob/main/img/linkedin-circle.png?raw=true
   
-Welcome to my portfolio! This repository showcases my projects and achievements.
+| Icono 1 | Icono 2 | Icono 3 |
+|---------|---------|---------|
+|    Icono 1    |    Icono 2    |    Icono 3    |
+
+
+| Icono 1 | Icono 2 | Icono 3 |
+|-|-|-|
+| Icono 1 | Icono 2 | Icono 3 |
+
 
 ## Projects
 
