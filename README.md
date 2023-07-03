@@ -5,7 +5,7 @@ My name is Cristhian Castro, data scientist and chemical engineer. Currently wor
 
 ## Projects
 
-### [Movie Recommendation System](https://github.com/cristhianc001/movie-recommendation-system)
+### [Content-Based Movie Recommendation System](https://github.com/cristhianc001/movie-recommendation-system)
 
 - Data cleaning and processing of a dataset related to the film industry using Python
 libraries such as Pandas, NumPy and ast.
