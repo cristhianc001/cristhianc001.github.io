@@ -36,7 +36,7 @@ algebraic processes such as cosine similarity
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/cristhianc001/cristhianc001/blob/e4f61771aafcc6b11d63f916c93f7ec218b230d6/Cristhian%20Castro%20CV-En.pdf" target="_blank" rel="noreferrer">
+      <a href="https://drive.google.com/file/d/1ly9aAWyW-JXZdv0O-nTkij6uXUaGgnRU/view?usp=drive_link" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/cristhianc001/cristhianc001.github.io/main/img/cv-icon.png" alt="curriculum" width="100" height="100"/>
       </a>
     </td>
