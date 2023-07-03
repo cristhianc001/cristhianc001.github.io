@@ -1,41 +1,35 @@
 
-# My Portfolio
-https://github.com/cristhianc001/cristhianc001.github.io/blob/main/img/linkedin-circle.png?raw=true
-  
-| Icono 1 | Icono 2 | Icono 3 |
-|---------|---------|---------|
-|    [![](https://pandao.github.io/editor.md/examples/images/7.jpg)](https://pandao.github.io/editor.md/examples/images/7.jpg "李健首张专辑《似水流年》封面")   |    [![](https://pandao.github.io/editor.md/examples/images/7.jpg)](https://pandao.github.io/editor.md/examples/images/7.jpg "李健首张专辑《似水流年》封面")    |    [![](https://pandao.github.io/editor.md/examples/images/7.jpg)](https://pandao.github.io/editor.md/examples/images/7.jpg "李健首张专辑《似水流年》封面")   |
-
-
-| Icono 1 | Icono 2 | Icono 3 |
-|-|-|-|
-| Icono 1 | Icono 2 | Icono 3 |
+# 👾 Welcome to my Portfolio 🤖
+My name is Cristhian Castro, data scientist and chemical engineer. Currently working in projects involving data analysis and machine learning. At the end of this  page you can find more info about me and how to contact me. Have a great day 🚀 
 
 
 ## Projects
 
-### [Movie Recommendation System (WIP)](https://github.com/cristhianc001/movie-recommendation-system)
-- Data Cleaning with Pandas, Numpy and ast
-- 
-- 
-
-### [Two Cases of Supervised Learning: Predicting car prices and hospitalization with linear regression and classification models](https://github.com/cristhianc001/predicting-prices-and-hospitalization-with-supervised-learning)
-- Linear Regression
-- Logistic Regression
-- Decision Tree
-
-### [Project 2](https://github.com/your-username/project-2)
-### [Project 3](https://github.com/your-username/project-3)
-
-## About Me
-
-I am a passionate data scientist with expertise in machine learning and data analysis. I enjoy working on challenging problems and finding insights from data.
+### [Movie Recommendation System](https://github.com/cristhianc001/movie-recommendation-system)
+- Data cleaning and processing of a dataset related to the film industry using Python
+libraries such as Pandas, NumPy and ast.
+- Development of a recommendation model through vectorization, Scikit-Learn and
+algebraic processes such as cosine similarity
+- Deployment of the application with Render.com and an API built with FastApi.
 
 ## Contact Me
-
-Connect with me on LinkedIn:
-
-[![LinkedIn](linkedin_button.png)](https://www.linkedin.com/in/cristhiancastro/)
-
-Feel free to reach out to me if you have any questions or collaboration opportunities.
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/cristhiancastro/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" width="100" height="100"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/cristhianc001/cristhianc001/blob/e4f61771aafcc6b11d63f916c93f7ec218b230d6/Cristhian%20Castro%20CV-En.pdf?raw=true" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/adobe_acrobat/adobe_acrobat-tile.svg" alt="curriculum" width="100" height="100"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/cristhianc001" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="100" height="100"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
