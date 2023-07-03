@@ -6,6 +6,8 @@ My name is Cristhian Castro, data scientist and chemical engineer. Currently wor
 ## Projects
 
 ### [Movie Recommendation System](https://github.com/cristhianc001/movie-recommendation-system)
+<p align="left"> <a href="https://pandas.pydata.org/docs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/valohai/ml-logos/d8dfb916e50a93a41f3b1ed2ca7bd3dbc77030a2/pandas.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/microsoft_powerbi/images/985205ac-fb3d-4c80-97f4-7bc0fec8c67d.svg" alt="powerbi" width="40" height="40"/> </a> </p>
+
 - Data cleaning and processing of a dataset related to the film industry using Python
 libraries such as Pandas, NumPy and ast.
 - Development of a recommendation model through vectorization, Scikit-Learn and
