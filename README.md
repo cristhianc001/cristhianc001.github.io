@@ -15,16 +15,17 @@ algebraic processes such as cosine similarity
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/cristhianc001/cristhianc001.github.io/main/img/welcome-page.png" width="500" height="300" style="pointer-events: none;"/>
+      <a href="https://raw.githubusercontent.com/cristhianc001/cristhianc001.github.io/main/img/welcome-page.png" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/cristhianc001/cristhianc001.github.io/main/img/welcome-page.png" width="500" height="300"/>
+      </a>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/cristhianc001/cristhianc001.github.io/main/img/recommendation-cars.png" width="500" height="300" style="pointer-events: none;"/>
+      <a href="https://raw.githubusercontent.com/cristhianc001/cristhianc001.github.io/main/img/recommendation-cars.png" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/cristhianc001/cristhianc001.github.io/main/img/recommendation-cars.png" width="500" height="300"/>
+      </a>
     </td>
   </tr>
 </table>
-
-
-
 
 ## Contact Me
 <table align="center">
