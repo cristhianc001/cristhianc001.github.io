@@ -63,7 +63,7 @@ libraries such as Pandas, NumPy and ast.
       </a>
     </td>
     <td align="center">
-      <a href="https://drive.google.com/file/d/1ly9aAWyW-JXZdv0O-nTkij6uXUaGgnRU/view?usp=drive_link" target="_blank" rel="noreferrer">
+      <a href="https://drive.google.com/file/d/1jR6Ck1RJuSY11As0lKTQ5X0FfG20dqq9/view?usp=sharing" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/cristhianc001/cristhianc001.github.io/main/img/cv-icon.png" alt="curriculum" width="100" height="100"/>
       </a>
     </td>
