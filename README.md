@@ -19,12 +19,12 @@ libraries such as Pandas, NumPy and ast.
   <tr>
     <td align="center">
       <a href="https://raw.githubusercontent.com/cristhianc001/cristhianc001.github.io/main/img/welcome-page.png" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/cristhianc001/cristhianc001.github.io/main/img/welcome-page.png" width="500" height="300"/>
+        <img src="https://raw.githubusercontent.com/cristhianc001/cristhianc001.github.io/main/img/welcome-page.png" height="400"/>
       </a>
     </td>
     <td align="center">
       <a href="https://raw.githubusercontent.com/cristhianc001/movie-recommendation-system/main/img/recommendation-arrival.png" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/cristhianc001/movie-recommendation-system/main/img/recommendation-arrival.png" height="300"/>
+        <img src="https://raw.githubusercontent.com/cristhianc001/movie-recommendation-system/main/img/recommendation-arrival.png" height="400"/>
       </a>
     </td>
   </tr>
@@ -54,7 +54,7 @@ libraries such as Pandas, NumPy and ast.
 </table>
 
 
-## Contact me
+## Contact
 <table align="center">
   <tr>
     <td align="center">
